@@ -11,7 +11,7 @@ spring:
 spring:
   profiles: test   #测试环境
   config:
-    info: test
+    info: testtesttest
 #  请保存为UTF-8格式
  
  
