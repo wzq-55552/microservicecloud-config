@@ -6,12 +6,12 @@
 spring:
   profiles: dev     #开发环境
   application: 
-    name: microservicecloud-config-atguigu-dev
+    name: github-dev-config-bus-application-name
 ---
 spring:
   profiles: test   #测试环境
   application: 
-    name: microservicecloud-config-atguigu-test
+    name: github-test-config-bus-application-name
 #  请保存为UTF-8格式
  
  
